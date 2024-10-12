@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{8F7FE1F3-9A0A-4685-A5DB-C44DF64062B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowControl", "FlowControl\FlowControl.csproj", "{FE826AC3-28BF-4DFA-B956-CFB96726C4BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{52A5DE89-4D76-4D36-9C3E-CC2F9057F5F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{8F7FE1F3-9A0A-4685-A5DB-C44DF64062B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F7FE1F3-9A0A-4685-A5DB-C44DF64062B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F7FE1F3-9A0A-4685-A5DB-C44DF64062B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE826AC3-28BF-4DFA-B956-CFB96726C4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE826AC3-28BF-4DFA-B956-CFB96726C4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE826AC3-28BF-4DFA-B956-CFB96726C4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE826AC3-28BF-4DFA-B956-CFB96726C4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A5DE89-4D76-4D36-9C3E-CC2F9057F5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A5DE89-4D76-4D36-9C3E-CC2F9057F5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A5DE89-4D76-4D36-9C3E-CC2F9057F5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A5DE89-4D76-4D36-9C3E-CC2F9057F5F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
